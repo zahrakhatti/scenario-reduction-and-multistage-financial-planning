@@ -27,7 +27,7 @@ The main objectives of this project are:
 ## Requirements
 
 ```bash
-pip install numpy scipy pulp pandas
+pip install -r requirements.txt
 ```
 
 ## Files
