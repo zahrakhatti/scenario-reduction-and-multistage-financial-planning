@@ -66,12 +66,6 @@ python main_example.py --quick
 | **Nested Decomposition** | L-shaped algorithm with 8 discrete scenarios |
 | **Deterministic Equivalent** | Solves all scenarios simultaneously for comparison |
 
-## Expected Results
-
-- **Scenario Reduction**: 1000 scenarios reduced to 50 (5% of original)
-- **Optimal Investment**: ~28-30 units in stocks, ~25-27 units in bonds
-- **Expected Utility**: Around -8 to -12 units
-- **L-shaped Convergence**: 2-5 iterations typically
 
 ## Problem Parameters
 
@@ -82,4 +76,3 @@ python main_example.py --quick
 - Shortage penalty: 4 units per unit short
 - Excess reward: 1 unit per unit over
 
-That's it! Run `python main_example.py` to see everything in action.
